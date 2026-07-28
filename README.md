@@ -77,7 +77,7 @@ The **screen recording** is the most important part. We want to see how you actu
 - You may use any AI coding tool or agent
 - You may use any frontend stack
 - You may use any supporting library or UI toolkit
-- There is no strict time limit, but efficient execution will be part of the evaluation
+- **Expected Effort & Timeframe:** The task is designed to be completed in 3–5 hours of active coding. Please submit within 2 days after receiving this test (let us know if you need additional time due to work/school schedule).
 
 > **Optional guidance for candidates**
 > If helpful, structure your session like this: plan the scope, prompt the AI to scaffold, build iteratively, review output often, fix issues quickly, and finish with a short explanation of what the AI helped with most.
