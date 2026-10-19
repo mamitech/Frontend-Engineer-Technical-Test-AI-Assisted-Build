@@ -4,7 +4,7 @@ This test is designed to assess how effectively and efficiently a Frontend Engin
 
 > [!NOTE]
 > **Test summary**
-> Build a simple **Mamikos website clone** using any AI agent, coding assistant, framework, library, or tech stack of your choice. You may clone only the **home page**, or expand into additional pages if you want.
+> Build a simple **clone of a website you like** (any public site of your choice) using any AI agent, coding assistant, framework, library, or tech stack of your choice. At minimum, clone the **home page**. You may add **one more page** of your choice if you want.
 
 ### What we care about
 
@@ -22,10 +22,10 @@ This test is designed to assess how effectively and efficiently a Frontend Engin
 
 ## Test Task
 
-Create a frontend clone inspired by the **Mamikos** website.
+Create a frontend clone inspired by a website of your choice (a site you use often or like).
 
-- **Minimum scope:** the landing or home page
-- **Optional scope:** additional pages or features if you want to go further
+- **Minimum scope:** the landing or home page of your chosen site
+- **Optional scope:** one additional page of your choice from the same site
 - **Approach:** AI-assisted or vibe coding workflow from start to finish
 
 > [!TIP]
@@ -33,10 +33,10 @@ Create a frontend clone inspired by the **Mamikos** website.
 
 ## What to Submit
 
-- [ ] Source code repository
-- [ ] Working demo link, if available
-- [ ] Full screen recording of the end-to-end development process
-- [ ] Short readme explaining your approach, tools used, and key decisions
+- [ ] **Public GitHub repository** with the source code
+- [ ] **Public live URL** of the working site (any host, e.g. Vercel, Netlify, GitHub Pages)
+- [ ] **Full screen recording** of the end-to-end development process, uploaded as a private file shareable by link (anyone with the link can view), e.g. Google Drive or similar
+- [ ] Short readme in the repo explaining which site you cloned, your approach, tools used, and key decisions
 
 The **screen recording** is the most important part. We want to see how you actually use AI during development, not just the final result.
 
